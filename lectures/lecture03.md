@@ -1,4 +1,4 @@
-# Lecture 2 - Feb. 14, 2024
+# Lecture 3 - Feb. 14, 2024
 
 ## Housekeeping
 - [How to hook in Discord](https://gist.github.com/SGTGunner/50d6a3cc0d489cf779f77695ba3e22ea)
@@ -63,4 +63,4 @@ As we venture into this brave new world of code and symbol manipulation, we must
 
 ## References:
 - [Type Theory and LLM](https://medium.com/@andrew_johnson_4/harnessing-the-power-of-type-theory-in-large-language-models-351691ca2644) {behind pay wall}
-- [Aider Discord]
+- [Aider Discord](https://aider.chat/)
