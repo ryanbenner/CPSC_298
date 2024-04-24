@@ -1,0 +1,3 @@
+This is an example of how text gets tokenized for interpretation by different LLMs
+
+[2028, 374, 459, 3187, 315, 1268, 1495, 5334, 4037, 1534, 369, 23692, 555, 2204, 445, 11237, 82]
